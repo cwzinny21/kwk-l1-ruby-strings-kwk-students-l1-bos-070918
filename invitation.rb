@@ -17,7 +17,8 @@ puts "At what time is the party?"
 time = gets.chomp.capitalize
 
 puts "Who is the host of the party?"
-host_name = gets.chomp.capitalize
+host_name = "Harry Potter"
+# gets.chomp.capitalize
 
 puts "Dear #{guest_name}, 
 
