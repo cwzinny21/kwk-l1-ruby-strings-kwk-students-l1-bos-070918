@@ -3,7 +3,7 @@
 # Try starting out with puts'ing a string.
 # guest_name = "Hermione"
 
-puts "Hi, you've been invited to a party!```````"
+puts "Hi, you've been invited to a party! What is your name?"
 guest_name = gets.chomp.capitalize
 
 puts "What party is he or she attending?"
