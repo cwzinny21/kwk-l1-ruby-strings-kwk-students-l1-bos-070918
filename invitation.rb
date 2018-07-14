@@ -15,7 +15,8 @@ date = "October 31"
 # gets.chomp.capitalize 
 
 puts "At what time is the party?"
-time = gets.chomp.capitalize
+time = "6pm"
+# gets.chomp.capitalize
 
 puts "Who is the host of the party?"
 host_name = "Harry Potter"
