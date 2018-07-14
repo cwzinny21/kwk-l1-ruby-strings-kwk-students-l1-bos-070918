@@ -7,7 +7,8 @@ puts "Hi, you've been invited to a party! What is your name?"
 guest_name = gets.chomp.capitalize
 
 puts "What party is he or she attending?"
-party_name = gets.chomp.capitalize
+party_name = "Best Halloween Party Ever"
+# gets.chomp.capitalize
 
 puts "When is the party?"
 date = gets.chomp.capitalize 
@@ -25,3 +26,4 @@ You are cordially invited to the #{party_name} on #{date} at #{time}. Please RSV
 Sincerly, 
 
 #{host_name}"
+
